@@ -1,7 +1,7 @@
 # Creador de Canciones con IA
 
 Una aplicación web que permite a los usuarios grabar su voz, generar letras de canciones con IA, producir audio con síntesis vocal y añadir un instrumental básico. Proyecto desarrollado para mi portafolio de GitHub.
-
+By Rebeca Romcy
 ## Características
 - **Grabación de audio**: Captura la voz del usuario usando la API `MediaRecorder`.
 - **Generación de letras**: Usa la API gratuita de Hugging Face (`google/gemma-2-2b-it` o `HuggingFaceTB/SmolLM2-1.7B-Instruct`) para crear letras personalizadas.
