@@ -1,0 +1,15 @@
+{
+  "name": "ai-song-creator",
+  "version": "1.0.0",
+  "description": "Una aplicación web para crear canciones con IA, síntesis vocal y música instrumental",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gtts": "^0.2.0"
+  }
+}
